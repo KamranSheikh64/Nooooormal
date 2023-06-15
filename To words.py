@@ -1,0 +1,10 @@
+x = input("Enter your name: ")
+y = int(input("Enter your age: "))
+f = input("Enter your father's name: ")
+m = input("Enter your mother's name: ")
+b = input("Enter your brother's name: ")
+s = input("Enter your sister's name: ")
+r = input("Enter your residence: ")
+w = input("Enter your occupation: ")
+
+print(f"Your name is {x}, your age is {y}, your father's name is {f}, your mother's name is {m}, your brother's name is {b}, your sister's name is {s}, you live in {r}, and you do {w} for a living.")
